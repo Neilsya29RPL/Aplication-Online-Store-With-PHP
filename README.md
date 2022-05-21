@@ -35,3 +35,10 @@
 ![14  Ubah Pelanggan](https://user-images.githubusercontent.com/68727623/169642043-02531a36-42b9-41e5-834f-05d035c0aef1.png)
 ## Add Pelanggan
 ![15  Tambah Pelanggan](https://user-images.githubusercontent.com/68727623/169642015-6de4fdf1-81da-4148-9511-77a66e95f62e.png)
+
+# Penjelasan Alur Aplikasi
+Berikut adalah aplikasi Toko Online / Online Store. Berikut alur transaksi aplikasinya:
+- Pertama-tama, jika ingin membeli produck klik button beli pada list produck yang dipilih.
+- Lalu tampil detail produck yang mau dibeli. Jika menghendaki batal, maka klik button batal.
+- Klik button pinjam lalu muncul halaman keranjang. Jika ingin menambah pembelian produck maka kembali ke halaman list produck.
+- Klik button checkout lalu otomatis diarahkan ke halaman generate transaksi.
