@@ -40,5 +40,5 @@
 Berikut adalah aplikasi Toko Online / Online Store. Berikut alur transaksi aplikasinya:
 - Pertama-tama, jika ingin membeli produck klik button beli pada list produck yang dipilih.
 - Lalu tampil detail produck yang mau dibeli. Jika menghendaki batal, maka klik button batal.
-- Klik button pinjam lalu muncul halaman keranjang. Jika ingin menambah pembelian produck maka kembali ke halaman list produck.
+- Klik button beli lalu muncul halaman keranjang. Jika ingin menambah pembelian produck maka kembali ke halaman list produck.
 - Klik button checkout lalu otomatis diarahkan ke halaman generate transaksi.
